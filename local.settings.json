@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=rgpetstore9087;AccountKey=yaySpUACZ29iuZWK+qsN+I5w0xuSM0ZAscP5pDBBQX1jWJUZg8X19BHcKAabClADJBIsdyT9dPUZ+AStv4lYiA==;EndpointSuffix=core.windows.net",
+      "stpetstore_STORAGE" : "DefaultEndpointsProtocol=https;AccountName=stpetstore;AccountKey=eeZf/hSYSPEVGOqgvQHEhXP1hWyihRIycjhuKkvBORgs0eN+1YNC2aq/Q5dpdLlKsiv80rYyg0nX+AStbRqoEA==",
+      "FUNCTIONS_WORKER_RUNTIME": "node"
+    }
+  }

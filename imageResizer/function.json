@@ -1,0 +1,18 @@
+﻿{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "image-resizing/raw/{name}",
+      "connection": "stpetstore_STORAGE"
+    },
+    {
+      "name": "myOutputBlob",
+      "type": "blob",
+      "direction": "out",
+      "path": "image-resizing/processed/{name}-processed",
+      "connection": "stpetstore_STORAGE"
+    }
+  ]
+}
